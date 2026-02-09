@@ -15,12 +15,12 @@ Passionate about **Web Programming** and **Digital & Traditional Art** 🎨
 ```
 ---
 
-  <img src="spitz.png" width="80" style="border-radius:50%;">
+  <img src="images/spitz.png" width="80" style="border-radius:50%;">
   <p style="font-size:16px; margin-left:10px;  style = "line-height:80px;"">Spitz are cool, I love them ❤️</p>
 
 ---
 <div style = "margin: 0px auto;">
-  <img src="Jujutsu Kaisen Jjk GIF.gif" alt="Funny GIF">
+  <img src="images/Jujutsu Kaisen Jjk GIF.gif" alt="Funny GIF">
 </div>
 
 ```python
